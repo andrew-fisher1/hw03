@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="SongList.css"?>
+
+<SongList>
+
+    <Song>
+
+        <Genres>
+            <Genre>Hip-Hop</Genre>
+        </Genres>
+            
+        <Title>Stars</Title>
+
+        <Artists>JID, Yasiin Bey</Artists>
+
+        <Year>2022</Year>
+
+    </Song>
+
+    <Song>
+
+        <Genres>
+            <Genre>Hip-Hop</Genre>
+            <Genre>Jazz</Genre>
+        </Genres>
+            
+        <Title>Wesley's Theory</Title>
+
+        <Artists>Kendrick Lamar, George Clinton, Thundercat </Artists>
+
+        <Year>2015</Year>
+
+    </Song>
+
+    <Song>
+
+        <Genres>
+            <Genre>RnB</Genre>
+        </Genres>
+            
+        <Title>Bad Habit</Title>
+
+        <Artists>Steve Lacy</Artists>
+
+        <Year>2022</Year>
+
+    </Song>
+
+    <Song>
+
+        <Genres>
+            <Genre>Classical</Genre>
+        </Genres>
+            
+        <Title>Piano Sonata No. 26</Title>
+
+        <Artists>Ludwig Van Beethoven</Artists>
+
+        <Year>1810</Year>
+
+    </Song>
+
+    <Song>
+
+        <Genres>
+            <Genre>Hip-Hop</Genre>
+        </Genres>
+            
+        <Title>Dance Now</Title>
+
+        <Artists>JID</Artists>
+
+        <Year>2022</Year>
+
+    </Song>
+
+    <Song>
+
+        <Genres>
+            <Genre>Hip-Hop</Genre>
+        </Genres>
+            
+        <Title>How Did You Get Here</Title>
+
+        <Artists>Little Simz</Artists>
+
+        <Year>2021</Year>
+
+    </Song>
+
+    <Song>
+
+        <Genres>
+            <Genre>Pop</Genre>
+            <Genre>Rock</Genre>
+        </Genres>
+            
+        <Title>Let it Be</Title>
+
+        <Artists>The Beatles</Artists>
+
+        <Year>1970</Year>
+
+    </Song>
+
+    <Song>
+
+        <Genres>
+            <Genre>Indie</Genre>
+        </Genres>
+            
+        <Title>The Place Where He Inserted The Blade</Title>
+
+        <Artists>Black Country New Road</Artists>
+
+        <Year>2022</Year>
+
+    </Song>
+
+    <Song>
+
+        <Genres>
+            <Genre>RnB</Genre>
+        </Genres>
+            
+        <Title>Pyramids</Title>
+
+        <Artists>Frank Ocean</Artists>
+
+        <Year>2013</Year>
+
+    </Song>
+
+    <Song>
+
+        <Genres>
+            <Genre>Pop</Genre>
+            <Genre>Electronic</Genre>
+        </Genres>
+            
+        <Title>Closer</Title>
+
+        <Artists>The Chainsmokers, Halsey</Artists>
+
+        <Year>2016</Year>
+
+    </Song>
+
+    <Song>
+
+        <Genres>
+            <Genre>Blues</Genre>
+            <Genre>Indie</Genre>
+        </Genres>
+            
+        <Title>Angel of Small Death and the Codeine Sea</Title>
+
+        <Artists>Hozier</Artists>
+
+        <Year>2014</Year>
+
+    </Song>
+
+    <Song>
+
+        <Genres>
+            <Genre>Rock</Genre>
+        </Genres>
+            
+        <Title>Fast Talk</Title>
+
+        <Artists>Houses</Artists>
+
+        <Year>2021</Year>
+
+    </Song>
+</SongList>
